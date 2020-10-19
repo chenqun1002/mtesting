@@ -1,0 +1,69 @@
+Linux:内核开源的操作系统，主要用于服务器级操作系统使用
+
+c语言
+unix---------stallman-----------linus
+		GNU		  linux(内核开放)
+		 gcc
+		 c++
+		 php
+mac-unix
+object-c
+
+windows
+linus：KDE、gnone
+
+google:android
+
+
+我为什么学？
+	对测试而言，公司层面全部都是linux的服务器，那我以后想做点什么，都是在linux上取操作的
+	作为测试，我们以后部署项目等都会在linux上部，所以你必须学会部署
+
+
+1、先学基本的命令
+2、基于这些命令完成项目的各种部署和环境的各种搭建
+
+
+虚拟机：vm、vbox
+操作系统：centos6.9
+
+
+
+通过远程连接工具去连接上我的linux服务器
+Putty、XShell、SecureCRT、SSH Secure Shell Slient...
+
+
+login as:root
+
+
+
+
+请你一定要背目录结构（掌握常用的--工作角度出发）
+
+/：根目录(我的电脑，任何目录都是从/下衍生出来的)
+	用户：
+		/root
+		/home
+	软件：
+		/usr
+		/etc 配置文件
+		/var
+	设备：
+		/dev  device
+	挂载：
+		/mnt  mount
+	临时：
+		/tmp  temp   你上班后，做试验尽量在这个目录下做，如果做错了，还有的救
+	
+
+
+
+
+
+
+
+
+
+
+
+
