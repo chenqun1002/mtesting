@@ -6,9 +6,7 @@ unix---------stallman-----------linus
 		 gcc
 		 c++
 		 php
-mac-unix
-object-c
-
+chenqun
 windows
 linus£ºKDE¡¢gnone
 
